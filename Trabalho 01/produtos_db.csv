@@ -1,0 +1,38 @@
+id,nome,categoria,preco
+1,Capa Pro,Áudio,1641.4
+2,Alto Falante Pro,Redes,775.8
+3,Microfone Pro,Eletrônicos,505.35
+4,Carregador Lite,Redes,1596.73
+5,Teclado Lite,Áudio,1033.04
+6,Microfone Lite,Video,90.87
+7,Placa de Vídeo Ultra,Video,1204.77
+8,Teclado Lite,Eletrônicos,1724.67
+9,Monitor Ultra,Redes,209.66
+10,Mixer Lite,Periféricos,1764.46
+11,Repetidor Ultra,Informática,1711.18
+12,SSD Lite,Acessórios,1151.09
+13,Switch Ultra,Redes,1944.67
+14,Placa Mãe Ultra,Áudio,611.02
+15,SSD Pro,Video,808.44
+16,Monitor Standard,Acessórios,928.14
+17,Teclado Pro,Informática,1784.01
+18,HD Externo Lite,Áudio,1408.09
+19,Adaptador USB Lite,Informática,916.46
+20,Controlador Lite,Periféricos,83.89
+21,Processador Pro,Video,895.66
+22,Fonte Pro,Informática,1496.55
+23,Memória RAM Lite,Acessórios,1844.23
+24,Fone de Ouvido Standard,Acessórios,255.08
+25,Memória RAM Pro,Eletrônicos,492.56
+26,HD Externo Ultra,Acessórios,1012.88
+27,Caixa de Som Pro,Redes,994.35
+28,Hub USB Plus,Informática,318.2
+29,Access Point Standard,Informática,1842.98
+30,Mixer Ultra,Periféricos,923.97
+31,Monitor Lite,Acessórios,641.81
+32,Notebook Ultra,Periféricos,1374.6
+33,Gabinete Lite,Acessórios,1869.02
+34,Placa de Vídeo Ultra,Eletrônicos,146.16
+35,Smart TV Standard,Informática,1937.32
+36,Produto Teste,Categoria Teste,19.99
+37,Produto Teste,Categoria Teste,19.99
